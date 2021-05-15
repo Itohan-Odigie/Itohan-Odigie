@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Itohan-Odigie
+- 👀 I’m interested in softwear engineering
+- 🌱 I’m currently learning @ De La Salle "Oaklands" in Toronto
+- 💞️ I love making projects with HTML, SQL, CSS and JAVASCRIPT
+- 📫 You can find me on Twitter and Instagram
