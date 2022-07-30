@@ -1,1 +1,1 @@
- 💞️ 👧🏽 Hi, I’m Itohan currently learning at De La Salle "Oaklands" in Toronto 🏫 Very interested in becoming a software engineer in the future 💻 💞️
+ 💞️ Hi, I’m Itohan; I am currently learning at De La Salle "Oaklands" in Toronto, and I am very interested in Computer Science 💻 💞️
